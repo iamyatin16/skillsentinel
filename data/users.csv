@@ -1,0 +1,3 @@
+username,salt,password_hash,role,name,centre,trainer_id
+trainer1,7119ee2d,4c7bddd1b53095a86f3a099764cbc975f78c21d33a78a709403b4ab6ec303f26,trainer,Trainer Pune,Centre-Pune,TR01
+monitor,2371e98d,a7231b360d6683d5f60fd2e5b637dba675a1b529772dc395a62b65d0cc1cce6b,monitor,Scheme Monitoring Officer,,

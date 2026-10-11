@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+clips/*.mp4
+records/local/
+data/learned/

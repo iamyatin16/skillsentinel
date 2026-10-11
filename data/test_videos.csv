@@ -1,0 +1,4 @@
+clip,centre,batch,claimed_ids,class_hours,declared_items
+day1_class.mp4,Centre-Pune,Batch-A,T001 T002 T003 T004 T005 T006 T007 T008,3,Chair=12;Table=8;Bench=4;Laptop=2
+day2_class.mp4,Centre-Pune,Batch-A,T001 T002 T003 T004 T005 T006 T007 T008,3,Chair=7;Table=5;Bench=4;Laptop=0
+day3_class.mp4,Centre-Pune,Batch-A,T001 T002 T003 T004 T005,3,Chair=12;Table=8;Bench=3;Laptop=2
